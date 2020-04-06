@@ -1,0 +1,285 @@
+Deer blog posts with with youtube entries 
+post id: theres-the-rut
+post urls: https://www.youtube.com/embed/jH4HwERXBQs
+src file: 0962bca69be44af4aa069ec8113b089f
+ 
+post id: who-is-eating-bambi-webinar
+post urls: https://www.youtube.com/watch?v=3CafuIi83to
+src file: 164384e5f26c4981928bf0daf268d026
+ 
+post id: deer-trapping-101-part-ii
+post urls: https://www.youtube.com/embed/wob4CWTs7iY?feature=player_embedded
+src file: 167186c6cd954148b531bd0d5eb96c71
+ 
+post id: weight-loss-program-for-buck-12783
+post urls: https://www.youtube.com/embed/aRRH0RjcjMY?rel=0
+src file: 1aac3dcdd2d34863966c04ffd53eb002
+ 
+post id: a-new-record-low
+post urls: https://www.youtube.com/watch?v=r9uizdKZAGE
+src file: 1cc04461ef41400795f471b9d0ef9846
+ 
+post id: short-memory
+post urls: https://www.youtube.com/embed/zMCa3HgWzWQ
+src file: 1defebad4018484695082fb0d1dde58e
+ 
+post id: a-bird-two-ungulates-and-a-fungus
+post urls: https://www.youtube.com/watch?v=JDKAkh135t8
+src file: 200780b3afa544d7bff3af4e3ba5bccd
+ 
+post id: middle-aged
+post urls: https://www.youtube.com/embed/9tzbkJY8Ip4?rel=0
+src file: 21b82ec540f946d18dd149cb9e8e067b
+ 
+post id: disappearing-act
+post urls: https://www.youtube.com/embed/EUW8RaAN2kU?rel=0
+src file: 2ca5456c5d904fd486949215d4249bd6
+ 
+post id: wanted-deer-pics
+post urls: https://www.youtube.com/watch?v=AdhFUxgZk04
+src file: 378d67680255445fad7a9bec62756c66
+ 
+post id: so-about-those-rut-movies
+post urls: https://www.youtube.com/embed/dC7XeYcujtM?rel=0
+src file: 3aff9834aa7c4b46a4e63eb6e47caa21
+ 
+post id: stripes-and-spots-forever
+post urls: https://www.youtube.com/watch?v=O3ZOKDmorj0
+src file: 3d7648fc4934475eb4b9ded04d03d152
+ 
+post id: my-summer-vacation-part-1
+post urls: https://www.youtube.com/watch?v=JmzuRXLzqKk
+src file: 47fa69e29e7d466693523c00fa13a4b7
+ 
+post id: where-do-they-go-and-where-did-they-come-from
+post urls: https://www.youtube.com/embed/A0L9YP_5kJY?rel=0
+src file: 5c1c315694f3489fa7863d501ed203de
+ 
+post id: dont-run-that-way
+post urls: https://www.youtube.com/watch?v=VJS5QDp77Y4
+src file: 68acddac8cd54615bffe590fd56aa453
+ 
+post id: distance-sampling
+post urls: https://www.youtube.com/embed/96VSNzoS9xY?rel=0
+src file: 74a0b8cc7d2e423bb9c4950e42914b09
+ 
+post id: dont-leave-home-without-it
+post urls: https://www.youtube.com/embed/lGl6C0AdXWM
+src file: 788a4111d6674bc5a8c8bce140e633bc
+ 
+post id: return-of-the-ents
+post urls: https://www.youtube.com/watch?v=exTNikaxJ_0
+src file: 7bbbe77124804970afb2f2818b88829f
+ 
+post id: fool-me-once
+post urls: https://www.youtube.com/embed/Xzbav2tx2mI
+src file: 7f1a480ea83341f8816d95c0f8a17031
+ 
+post id: dont-call-him-george
+post urls: https://www.youtube.com/watch?v=jPdHaNr0OAY
+src file: 82f91afc7eca44678bde3da93d47eb43
+ 
+post id: stay-close-its-a-scary-world-out-there
+post urls: https://www.youtube.com/embed/bNbDhRREpHU?rel=0
+src file: 8536cbe5392e4709a6a413bd1d25c820
+ 
+post id: beware-the-flesh-eating-deer
+post urls: https://www.youtube.com/embed/sQOQdBLHrLk
+src file: 8640e5f35b924781aa2b34f6667bdbec
+ 
+post id: deer-crew-diaries-2013-entry-ix
+post urls: https://www.youtube.com/embed/G9_JgpvOfqI?rel=0
+src file: 86bcbad9f46e46daabdc806f2af24af6
+ 
+post id: fate-of-buck-9125
+post urls: https://www.youtube.com/embed/RK56AnjgjZs?rel=0
+src file: 88360e13ca4445b0a10aa8b60163ccbe
+ 
+post id: the-invasion-begins
+post urls: https://www.youtube.com/watch?v=QYMETt578MM
+src file: 8cce7831e4b54d7480eb64c029e5c8f7
+ 
+post id: whoseatingbambi-2016-rundown
+post urls: https://www.youtube.com/embed/GmgtIWyfSTs?rel=0&amp;controls=0&amp;showinfo=0
+src file: 904a4625c1564ae59be712b666bb6949
+ 
+post id: did-you-hear-that
+post urls: https://www.youtube.com/embed/OPdG07FTlZY?rel=0
+src file: 93051950677445f9817107fea4b44495
+ 
+post id: cruel-summer
+post urls: https://www.youtube.com/watch?v=9ePIZugahFc
+src file: 93a3463c776545d6a5257e8979b5488b
+ 
+post id: deer-crew-diaries-2013-entry-vi
+post urls: https://www.youtube.com/embed/U6r_aKB8n2s
+src file: 93f7a53ccb6249018af7a9f6203d1c97
+ 
+post id: summer-flashback
+post urls: https://www.youtube.com/embed/eh6gqFZZ-AY?rel=0&amp;controls=0&amp;showinfo=0
+src file: 946bd918dd9b4ffe8851bdb44da2f0e9
+ 
+post id: the-futures-so-bright
+post urls: https://www.youtube.com/watch?v=8qrriKcwvlY
+src file: 97502fc0aeaa4a10bcb41ae5b728a2a2
+ 
+post id: hes-back
+post urls: https://www.youtube.com/embed/A9YitUd2EZg?rel=0
+src file: 98e820919b454fdcad49c9a4f564b1f3
+ 
+post id: another-big-woods-buck
+post urls: https://www.youtube.com/embed/F5-zsmZSe_k?rel=0
+src file: 9be009248cd04ab59ee117ccaa1673ea
+ 
+post id: ridge-and-valley-buck
+post urls: https://www.youtube.com/embed/kcKqF6T64r8?rel=0
+src file: 9efaceaa6057476e85b5f18454d40a55
+ 
+post id: tennis-anyone
+post urls: https://www.youtube.com/watch?v=xj1L8HpEV_E
+src file: a2ff49af0a4a46949c4eeb9d185e0f3f
+ 
+post id: the-rut-is-about-over
+post urls: https://www.youtube.com/embed/uxKPsPOGQEA?rel=0
+src file: a523fa6e15824860b964900212abe3ba
+ 
+post id: when-do-they-sleep
+post urls: https://www.youtube.com/embed/J8L75w6UmCM?rel=0
+src file: a60adf4446e24c9e84ec6b2872307729
+ 
+post id: time-may-change-me
+post urls: https://www.youtube.com/watch?v=BPPSu0vaNWA
+src file: a6aa860a8ca94d3798a4a4a54f25fc89
+ 
+post id: the-life-and-times-of-buck-8917
+post urls: https://www.youtube.com/embed/liHrJvDXS-o?rel=0
+src file: b44c83e24c80474a89fa6d3e3fba041d
+ 
+post id: 1-predator-discovered
+post urls: https://www.youtube.com/embed/zWVw-j8eYSk
+src file: b4cfbe61586346d79879c0cc43bdce0d
+ 
+post id: santas-little-helpers
+post urls: https://www.youtube.com/embed/FyTmWaO9ceo
+src file: b5e9ad2fb9564368a670a61f5ceb386f
+ 
+post id: resting-places
+post urls: https://www.youtube.com/embed/mKV2eY7FbfM
+src file: b64ec09c61cd4aaca86ea73fb8773146
+ 
+post id: vampire-bucks...not-hardly
+post urls: https://www.youtube.com/embed/VLYeOX9ShHw
+src file: baa8add2e4874d18a47f7bb32ecfec53
+ 
+post id: one-time-too-many
+post urls: https://www.youtube.com/embed/k7QKQlgI7uc
+src file: bb873eab358146ee96a19c4d1d2ad8ff
+ 
+post id: crazy-cat-lady-research
+post urls: https://www.youtube.com/embed/MDQIReLyRXg
+src file: bd5800508c84404ea0587896ee4e297e
+ 
+post id: exploding-head-syndrome
+post urls: https://www.youtube.com/watch?v=qyQx3GXbuBk
+src file: bef197babd81436293a75acba5304757
+ 
+post id: born-free
+post urls: https://www.youtube.com/watch?v=WLoYFvbR0XY
+src file: c379098ed01a4a0ebae99b8091e426de
+ 
+post id: changing-diapers
+post urls: https://www.youtube.com/embed/uw5Hth9A3UA
+src file: c6a8b3f7b08b481d958fc246d591394c
+ 
+post id: who-is-eating-bambi-now-live
+post urls: https://www.youtube.com/watch?v=3CafuIi83to
+src file: c7b9c62ef0a44ecc89f9134331ab831f
+ 
+post id: riding-out-a-storm
+post urls: https://www.youtube.com/embed/_g-_57D_eR4
+src file: c8f13c1a863940449fb2bddea42239a3
+ 
+post id: 2017-deer-forest-year-end-review
+post urls: https://www.youtube.com/watch?v=508xSDmZSbY
+src file: caf359c63d4647afb67a41ea54c5a502
+ 
+post id: yearling-male-dispersal
+post urls: https://www.youtube.com/embed/4HOooI-_zQk?rel=0
+src file: cbff76ca22314347b48d23e54054a72e
+ 
+post id: keeping-resolutions-part-2
+post urls: https://www.youtube.com/watch?v=3DKVDkekqNo&amp;feature=mfu_channel
+src file: ceef8683ef254d349811ada973ead774
+ 
+post id: patterning-a-buck-in-the-rut
+post urls: https://www.youtube.com/embed/eRTY4Jw8qlE?rel=0
+src file: cfc7de227b1c4df5bb3ae311ea71997c
+ 
+post id: dont-try-this-at-home
+post urls: https://www.youtube.com/embed/HkUrNisYeBM?rel=0
+src file: d0c10ee091114cffbab1c8386737fc81
+ 
+post id: hillside-doe2019s-hiding-spot
+post urls: https://www.youtube.com/embed/X3rYCj9ANjU
+src file: d0f73794f6af4ccf81a3db2cd0b7ca5a
+ 
+post id: beach-bums
+post urls: https://www.youtube.com/watch?v=8VG7EuQsHEw
+src file: d9541192397a4c1f8353536da1b1b4e1
+ 
+post id: doe-movements-in-the-rut
+post urls: https://www.youtube.com/embed/now85rzp-9Y?rel=0
+src file: dc47c9ddde204047a6d03eb5e00620cc
+ 
+post id: webinars
+post urls: https://www.youtube.com/watch?v=3CafuIi83to
+src file: ded030e453d1494da8ec82449a49c573
+ 
+post id: twice-the-fun-in-the-sun
+post urls: https://www.youtube.com/embed/EiJMqPZJUIw?rel=0
+src file: dfe8a966a4bb4219982df52a366fd355
+ 
+post id: fashion-faux-pas
+post urls: https://www.youtube.com/watch?v=lnGHB-kI2ZM
+src file: e5ef8a653c034930b1fa288a345e3102
+ 
+post id: wanted
+post urls: https://www.youtube.com/embed/bwAwAmPpTYU?rel=0
+src file: e6ae965505b54688ac1fb664ab3d288f
+ 
+post id: rise-of-the-machine
+post urls: https://www.youtube.com/watch?v=ARJ8cAGm6JE
+src file: e6f15192b5f24e96b4e6e75ad3f3be20
+ 
+post id: battle-scars
+post urls: https://www.youtube.com/embed/zVOSMYPyhn4?rel=0
+src file: e778374e9a074be3bd29d476f5bebe77
+ 
+post id: the-ultimate-guide-to-hunting-big-woods-deer
+post urls: https://www.youtube.com/embed/X3rYCj9ANjU
+src file: ed74c9fd9db340e2bf05a2c1810a2e46
+ 
+post id: deer-trapping-101-part-i
+post urls: https://www.youtube.com/embed/8YiFJUedwGU
+src file: ed96d9039682439ba1814001981f8758
+ 
+post id: deer-crew-diaries-2013-entry-viii
+post urls: https://www.youtube.com/embed/HxEDSXNPank?rel=0
+src file: eef60a11dabf4c7fa544172458a316f5
+ 
+post id: we-spied-on-him-for-3-years
+post urls: https://www.youtube.com/embed/wQdrdvfd8mc?rel=0
+src file: f813d24556dd488aa11713de484cd825
+ 
+post id: frosty-pumpkins
+post urls: https://www.youtube.com/embed/Eqit6RX_CP8
+src file: f8c84744e4ff463ea00bebd61a1ad2ad
+ 
+post id: can-you-hear-the-screams
+post urls: https://www.youtube.com/watch?v=GEQPuekKVTU
+src file: fcb64a5fc8ec40ffb548da54581a9c2f
+ 
+post id: bucks-in-rut-everybodys-different
+post urls: https://www.youtube.com/embed/IMtxnZp7Bwc
+src file: ff8db6ca3a364541a1be93e2eb2a19a2
+ 
