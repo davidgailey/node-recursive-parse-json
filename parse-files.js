@@ -61,7 +61,7 @@ function walk(dir, done) {
 
 function getFileJSON (srcFile, encoding) {
 	var content = fs.readFileSync(srcFile, encoding || 'utf8');
-	console.info ('srcFile: ' + srcFile );
+	// console.info ('srcFile: ' + srcFile );
 	// console.info (JSON.parse(content));
 	// console.info ('content: ' + content );
 	return JSON.parse(content);
@@ -88,21 +88,21 @@ walk(config.targetDir, function (err, results) {
 		if(typeof fileJSON.text !== "undefined" && typeof fileJSON.text.value !== "undefined" ){
 			// youtubeMatches = fileJSON.text.value.match(/^(?:https?:\/\/)?(?:www\.)?(?:youtu\.be\/|youtube\.com\/(?:embed\/|v\/|watch\?v=|watch\?.+&v=))((\w|-){11})?$/);
 			// youtubeMatches = fileJSON.text.value.match('youtube.com');
-			youtubeMatches = fileJSON.text.value.match(/https?:\/\/www.youtube.com\/[^"',]+/);
+			youtubeMatches = fileJSON.text.value.match(/https?:\/\/www.youtu\.?be\.?c?o?m?\/[^"',]+/gm);
 			// youtubeMatches = fileJSON.text.value.match(/^(http(s)?:\/\/)?((w){3}.)?youtu(be|.be)?(\.com)?\/.+/gm);
 		}
 
-		console.log ('-------------------------');
-		console.log (id);
-		// console.info (youtubeMatches.length);
-		console.info (youtubeMatches);
+		
 
 		if (youtubeMatches !== null && youtubeMatches.length){
 			console.info (youtubeMatches.length);
 			console.info (youtubeMatches[0]);
 			// matchedFiles.push(id);
-			console.log('post matched: ' + id);
-			console.log('urls matched: ' + youtubeMatches)
+			
+			// console.log ('-------------------------');
+			// console.log (id);
+			// console.info (youtubeMatches.length);
+			// console.info (youtubeMatches);
 
 			let obj = {id: id, 
 						urls: youtubeMatches,

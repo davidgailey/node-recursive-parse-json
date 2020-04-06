@@ -15,6 +15,7 @@ index: 2
 -----------------------
 post id: deer-trapping-101-part-ii
 youtube url: https://www.youtube.com/embed/wob4CWTs7iY?feature=player_embedded
+youtube url: https://www.youtube.com/embed/fjIesW-9hWM?feature=player_detailpage
 src file: 167186c6cd954148b531bd0d5eb96c71
  
 index: 3
@@ -33,6 +34,7 @@ index: 5
 -----------------------
 post id: short-memory
 youtube url: https://www.youtube.com/embed/zMCa3HgWzWQ
+youtube url: https://www.youtube.com/embed/Sg8Rif4op8I
 src file: 1defebad4018484695082fb0d1dde58e
  
 index: 6
@@ -51,6 +53,8 @@ index: 8
 -----------------------
 post id: disappearing-act
 youtube url: https://www.youtube.com/embed/EUW8RaAN2kU?rel=0
+youtube url: https://www.youtube.com/embed/6m5AXmr00dA?rel=0
+youtube url: https://www.youtube.com/embed/UgmBycvJg2Q?rel=0
 src file: 2ca5456c5d904fd486949215d4249bd6
  
 index: 9
@@ -93,6 +97,9 @@ index: 15
 -----------------------
 post id: distance-sampling
 youtube url: https://www.youtube.com/embed/96VSNzoS9xY?rel=0
+youtube url: https://www.youtube.com/embed/IVvcbDHGSLg?rel=0
+youtube url: https://www.youtube.com/embed/_a3yOkBXQ38?rel=0
+youtube url: https://www.youtube.com/embed/pdhlYi5OuN8?rel=0
 src file: 74a0b8cc7d2e423bb9c4950e42914b09
  
 index: 16
@@ -111,6 +118,7 @@ index: 18
 -----------------------
 post id: fool-me-once
 youtube url: https://www.youtube.com/embed/Xzbav2tx2mI
+youtube url: https://www.youtube.com/embed/VQHvdpch-Zg
 src file: 7f1a480ea83341f8816d95c0f8a17031
  
 index: 19
@@ -123,6 +131,11 @@ index: 20
 -----------------------
 post id: stay-close-its-a-scary-world-out-there
 youtube url: https://www.youtube.com/embed/bNbDhRREpHU?rel=0
+youtube url: https://www.youtube.com/embed/dDIUDL5sWgQ?rel=0
+youtube url: https://www.youtube.com/embed/1tfluCx4-lU?rel=0
+youtube url: https://www.youtube.com/embed/jgtuJZ06KAQ?rel=0
+youtube url: https://www.youtube.com/embed/5iG_ZazMs-g?rel=0
+youtube url: https://www.youtube.com/embed/0Hfb_EGz6Pc?rel=0
 src file: 8536cbe5392e4709a6a413bd1d25c820
  
 index: 21
@@ -141,6 +154,7 @@ index: 23
 -----------------------
 post id: fate-of-buck-9125
 youtube url: https://www.youtube.com/embed/RK56AnjgjZs?rel=0
+youtube url: https://www.youtube.com/embed/pZ9r_1CZKns?rel=0
 src file: 88360e13ca4445b0a10aa8b60163ccbe
  
 index: 24
@@ -153,12 +167,14 @@ index: 25
 -----------------------
 post id: whoseatingbambi-2016-rundown
 youtube url: https://www.youtube.com/embed/GmgtIWyfSTs?rel=0&amp;controls=0&amp;showinfo=0
+youtube url: https://www.youtube.com/embed/C1TH4sdZ7a4?rel=0&amp;controls=0&amp;showinfo=0
 src file: 904a4625c1564ae59be712b666bb6949
  
 index: 26
 -----------------------
 post id: did-you-hear-that
 youtube url: https://www.youtube.com/embed/OPdG07FTlZY?rel=0
+youtube url: https://www.youtube.com/embed/L_dpwn98_LY?rel=0
 src file: 93051950677445f9817107fea4b44495
  
 index: 27
@@ -171,6 +187,10 @@ index: 28
 -----------------------
 post id: deer-crew-diaries-2013-entry-vi
 youtube url: https://www.youtube.com/embed/U6r_aKB8n2s
+youtube url: https://www.youtube.com/embed/GayVj4rBtP4
+youtube url: https://www.youtube.com/embed/lkJee1SAst8?rel=0
+youtube url: https://www.youtube.com/embed/dFN2N4H-ghM?rel=0
+youtube url: https://www.youtube.com/embed/H07rgmcgF9Y?rel=0
 src file: 93f7a53ccb6249018af7a9f6203d1c97
  
 index: 29
@@ -195,18 +215,23 @@ index: 32
 -----------------------
 post id: another-big-woods-buck
 youtube url: https://www.youtube.com/embed/F5-zsmZSe_k?rel=0
+youtube url: https://www.youtube.com/embed/vi2Mac_fiVs?rel=0
+youtube url: https://www.youtube.com/embed/d_ycApzHMKk?rel=0
 src file: 9be009248cd04ab59ee117ccaa1673ea
  
 index: 33
 -----------------------
 post id: ridge-and-valley-buck
 youtube url: https://www.youtube.com/embed/kcKqF6T64r8?rel=0
+youtube url: https://www.youtube.com/embed/l5yUvblsQlU?rel=0
+youtube url: https://www.youtube.com/embed/ajkWfh9Nh4I?rel=0
 src file: 9efaceaa6057476e85b5f18454d40a55
  
 index: 34
 -----------------------
 post id: tennis-anyone
 youtube url: https://www.youtube.com/watch?v=xj1L8HpEV_E
+youtube url: https://www.youtube.com/embed/ixCpI-MSgHo
 src file: a2ff49af0a4a46949c4eeb9d185e0f3f
  
 index: 35
@@ -225,12 +250,22 @@ index: 37
 -----------------------
 post id: time-may-change-me
 youtube url: https://www.youtube.com/watch?v=BPPSu0vaNWA
+youtube url: https://www.youtube.com/embed/kerUbfOQTW0
 src file: a6aa860a8ca94d3798a4a4a54f25fc89
  
 index: 38
 -----------------------
 post id: the-life-and-times-of-buck-8917
 youtube url: https://www.youtube.com/embed/liHrJvDXS-o?rel=0
+youtube url: https://www.youtube.com/embed/_JFl91KyJ8g?rel=0
+youtube url: https://www.youtube.com/embed/ZgcfUnoKFbU?rel=0
+youtube url: https://www.youtube.com/embed/yBmL77o0dJQ?rel=0
+youtube url: https://www.youtube.com/embed/RaBFksvy_cg?rel=0
+youtube url: https://www.youtube.com/embed/gWsUIkjcoqU?rel=0
+youtube url: https://www.youtube.com/embed/4rDST1NpLAc?rel=0
+youtube url: https://www.youtube.com/embed/Eqit6RX_CP8?rel=0
+youtube url: https://www.youtube.com/embed/PUFwqYm73Ok?rel=0
+youtube url: https://www.youtube.com/embed/szQ_3QtNS2Y?rel=0
 src file: b44c83e24c80474a89fa6d3e3fba041d
  
 index: 39
@@ -249,12 +284,16 @@ index: 41
 -----------------------
 post id: resting-places
 youtube url: https://www.youtube.com/embed/mKV2eY7FbfM
+youtube url: https://www.youtube.com/embed/Ao6NYtlByDk
+youtube url: https://www.youtube.com/embed/Ydfi_FBkdCA
 src file: b64ec09c61cd4aaca86ea73fb8773146
  
 index: 42
 -----------------------
 post id: vampire-bucks...not-hardly
 youtube url: https://www.youtube.com/embed/VLYeOX9ShHw
+youtube url: https://www.youtube.com/embed/HofJ5F6fkrE
+youtube url: https://www.youtube.com/embed/9asdujXeWD4
 src file: baa8add2e4874d18a47f7bb32ecfec53
  
 index: 43
@@ -315,12 +354,15 @@ index: 52
 -----------------------
 post id: keeping-resolutions-part-2
 youtube url: https://www.youtube.com/watch?v=3DKVDkekqNo&amp;feature=mfu_channel
+youtube url: https://www.youtube.com/watch?v=_AswG5dyee0
 src file: ceef8683ef254d349811ada973ead774
  
 index: 53
 -----------------------
 post id: patterning-a-buck-in-the-rut
 youtube url: https://www.youtube.com/embed/eRTY4Jw8qlE?rel=0
+youtube url: https://www.youtube.com/embed/zsIBVkCuihQ?rel=0
+youtube url: https://www.youtube.com/embed/MlTyXtz9EEI?rel=0
 src file: cfc7de227b1c4df5bb3ae311ea71997c
  
 index: 54
@@ -339,24 +381,31 @@ index: 56
 -----------------------
 post id: beach-bums
 youtube url: https://www.youtube.com/watch?v=8VG7EuQsHEw
+youtube url: https://www.youtube.com/watch?v=Ru2tsT32pHA
 src file: d9541192397a4c1f8353536da1b1b4e1
  
 index: 57
 -----------------------
 post id: doe-movements-in-the-rut
 youtube url: https://www.youtube.com/embed/now85rzp-9Y?rel=0
+youtube url: https://www.youtube.com/embed/GBqBXqjT_II
+youtube url: https://www.youtube.com/embed/159qfbMlhaI?rel=0
+youtube url: https://www.youtube.com/embed/Ocx64LCbI0E
 src file: dc47c9ddde204047a6d03eb5e00620cc
  
 index: 58
 -----------------------
 post id: webinars
 youtube url: https://www.youtube.com/watch?v=3CafuIi83to
+youtube url: https://www.youtube.com/watch?v=xmHvjJhyFy4
+youtube url: https://www.youtube.com/watch?v=AdhFUxgZk04
 src file: ded030e453d1494da8ec82449a49c573
  
 index: 59
 -----------------------
 post id: twice-the-fun-in-the-sun
 youtube url: https://www.youtube.com/embed/EiJMqPZJUIw?rel=0
+youtube url: https://www.youtube.com/embed/pCxvc5xefio
 src file: dfe8a966a4bb4219982df52a366fd355
  
 index: 60
@@ -423,5 +472,6 @@ index: 70
 -----------------------
 post id: bucks-in-rut-everybodys-different
 youtube url: https://www.youtube.com/embed/IMtxnZp7Bwc
+youtube url: https://www.youtube.com/watch?v=VWtYgeiP4cs
 src file: ff8db6ca3a364541a1be93e2eb2a19a2
  
